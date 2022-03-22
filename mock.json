@@ -1,0 +1,29 @@
+{
+    "productos": [
+        {
+            "nombre": "tv",
+            "detalle": "de 14 pulgadas",
+            "stock": 10
+        },
+        {
+            "nombre": "smartphone samsug",
+            "detalle": "de 14 pulgadas",
+            "stock": 20
+        },
+        {
+            "nombre": "microondas",
+            "detalle": "de 14 pulgadas",
+            "stock": 5
+        },
+        {
+            "detalle": "airfryer",
+            "nombre": "ninja",
+            "stock": "1000"
+        },
+        {
+            "detalle": "superlicuadora",
+            "nombre": "Oster4500",
+            "stock": "25"
+        }
+    ]
+}
